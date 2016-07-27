@@ -1,6 +1,4 @@
-![](../img/banner.png)
-
----
+# MLFW #
 
 ## 概要
 
