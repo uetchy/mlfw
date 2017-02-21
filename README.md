@@ -6,9 +6,3 @@
 
 - [Software links « Deep Learning](http://deeplearning.net/software_links/)
 - [Comparison of deep learning software - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
-
-## Frameworks
-
-- Chainer
-- Keras
-- TensorFlow
